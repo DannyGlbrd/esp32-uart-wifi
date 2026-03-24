@@ -14,7 +14,7 @@
 
 1. Установить PlatformIO
 2. Клонировать репозиторий:
-   git clone https://github.com/yourname/esp32-uart-wifi
+   git clone https://github.com/DannyGlbrd/esp32-uart-wifi
 
 3. Открыть проект в VS Code
 4. Задать Wi-Fi данные в main.cpp
